@@ -13,7 +13,10 @@ GitHub: https://github.com/linzhiq/thesignal-csdataproject
 
 Deployed: http://thesign.al/pathways
 
-### Early Release
+#### The Anti-Resume
+GitHub: https://github.com/linzhiq/thesignal-antiresume
+
+Deployed: http://antiresume.thesign.al/
 
 #### Website Redesign
 GitHub: https://github.com/linzhiq/thesignal-alpha
@@ -24,3 +27,6 @@ Deployed: http://beta.thesign.al
 GitHub: https://github.com/linzhiq/thesignal-style-guide
 
 Deployed: http://style.thesign.al/manual/
+
+### Beta Release
+Deployed: http://realtalkpenn.com
